@@ -1,7 +1,8 @@
-"Hello, World"
-#
+name = ARGV.first || "World"
+"Hello, #{Mau}!"
+
 LPC
-Mauricio
+
 
 
 
